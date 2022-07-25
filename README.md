@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senthil-234
+- 👋 Hi, I’m @senthil234
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python, Pandas
 - 💞️ I’m looking to collaborate on ...
